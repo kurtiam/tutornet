@@ -1,0 +1,9 @@
+.home__section {
+    display: flex;
+    padding: 30px;   
+}
+
+.home > h2 {
+    padding-left: 20px;
+    padding-top: 20px;
+}
